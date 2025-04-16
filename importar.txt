@@ -1,0 +1,107 @@
+[
+  {
+    "index": "minutas",
+    "document": {
+      "titulo": "Discusión y votación del proyecto de nueva Ley General de Pesca",
+      "contenido": "Continuar con la discusión en particular y votación del proyecto de ley que establece una nueva Ley General de Pesca.",
+      "asistentes": [],
+      "tags": ["pesca", "acuicultura", "reforma legal"],
+      "proyecto": "Ley General de Pesca",
+      "fecha": "2025-04-07",
+      "boletin": "16500-21",
+      "comision": "Comisión de Pesca y Acuicultura",
+      "tipo_evento": "Sesión de Comisión",
+      "hora_inicio": "11:00",
+      "hora_fin": "13:00",
+      "urgencia": "Suma",
+      "tramite": "Primer trámite constitucional",
+      "estado": "En discusión",
+      "origen": "Mensaje del Presidente de la República",
+      "detalle": "Discusión particular y votación del proyecto que establece nueva Ley General de Pesca y deroga disposiciones previas."
+    }
+  },
+  {
+    "index": "minutas",
+    "document": {
+      "titulo": "Nuevo financiamiento para educación superior y condonación de deudas",
+      "contenido": "Votación del proyecto que crea un nuevo instrumento de financiamiento y condonación de deudas educativas.",
+      "asistentes": [],
+      "tags": ["educación", "financiamiento", "condonación"],
+      "proyecto": "Financiamiento educación superior",
+      "fecha": "2025-04-07",
+      "boletin": "17169-04",
+      "comision": "Comisión de Educación",
+      "tipo_evento": "Sesión de Comisión",
+      "hora_inicio": "15:00",
+      "hora_fin": "16:50",
+      "urgencia": null,
+      "tramite": "Primer trámite constitucional",
+      "estado": "En discusión particular",
+      "origen": "Mensaje del Ejecutivo",
+      "detalle": "Sesión especial para continuar con la votación del proyecto de ley sobre financiamiento de estudios superiores y condonación de deuda."
+    }
+  },
+  {
+    "index": "minutas",
+    "document": {
+      "titulo": "Proyecto sobre medidas de seguridad en transporte interregional",
+      "contenido": "Votación del proyecto de ley que establece exigencia de identificación y medidas de seguridad.",
+      "asistentes": [],
+      "tags": ["seguridad", "transporte"],
+      "proyecto": "Seguridad en transporte",
+      "fecha": "2025-04-07",
+      "boletin": "16703-25",
+      "comision": "Comisión de Seguridad Ciudadana",
+      "tipo_evento": "Sesión de Comisión",
+      "hora_inicio": "15:30",
+      "hora_fin": "16:15",
+      "urgencia": "Suma",
+      "tramite": "No especificado",
+      "estado": "Votación particular",
+      "origen": null,
+      "detalle": "Votación del proyecto que establece medidas de seguridad y exigencia de identificación en el transporte interregional."
+    }
+  },
+  {
+    "index": "minutas",
+    "document": {
+      "titulo": "Permiso laboral para vocales de mesa",
+      "contenido": "Proyecto que modifica la ley para otorgar un día de permiso laboral a vocales de mesa.",
+      "asistentes": [],
+      "tags": ["elecciones", "permiso laboral"],
+      "proyecto": "Permiso laboral vocales de mesa",
+      "fecha": "2025-04-07",
+      "boletin": "17221-13",
+      "comision": "Comisión de Trabajo",
+      "tipo_evento": "Sesión de Sala",
+      "hora_inicio": "17:00",
+      "hora_fin": "19:00",
+      "urgencia": null,
+      "tramite": "Primer trámite constitucional",
+      "estado": "Discusión pendiente",
+      "origen": "Moción",
+      "detalle": "Modificación legal para otorgar permiso laboral a quienes ejerzan como vocales en elecciones."
+    }
+  },
+  {
+    "index": "minutas",
+    "document": {
+      "titulo": "Condonación de deudas en educación superior",
+      "contenido": "Continúa votación del proyecto de ley sobre condonación de deudas en educación superior.",
+      "asistentes": [],
+      "tags": ["educación", "condonación", "deuda"],
+      "proyecto": "Condonación educación superior",
+      "fecha": "2025-04-08",
+      "boletin": "17169-04",
+      "comision": "Comisión de Educación",
+      "tipo_evento": "Sesión de Comisión",
+      "hora_inicio": "08:30",
+      "hora_fin": "09:50",
+      "urgencia": null,
+      "tramite": "Primer trámite constitucional",
+      "estado": "Votación particular",
+      "origen": "Mensaje del Ejecutivo",
+      "detalle": "Sesión especial para votar proyecto que propone condonación de deudas y nuevo modelo de financiamiento en educación superior."
+    }
+  }
+]
